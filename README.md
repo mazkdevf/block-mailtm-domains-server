@@ -1,1 +1,1 @@
-# block-mailtm-domains-server
+# Get all Mail.tm domains to block.
